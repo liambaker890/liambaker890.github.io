@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Liam`s Hangout</title>
+    </head>
+    <body>
+    <h1>Welcome to Liam`s really low quality site! :D</h1>
+    <h2>"So uh, what do we even do here Liam"...?</h2>
+    <h2>"I`m not sure myself"...</h2>
+    <h2>"Just explore around okay"...</h2>
+    <a href="https://www.youtube.com/channel/UCJf4Wan6FSI9402RyED3khQ">My terrible youtube channel! :D</a> Click on it and sub please. It boosts my crappy ego :P
+    <p>3 plus 3 is 6, You have 6 legs, Since you`re an alien you have 3 eyes, 6 minus 3 is 4. I have 4 letters in my name "Liam". I am illiminati confirmed. (insert lenny face here)
+    <h1>This site isn`t actually that long, That cuz its a test site, So I can test my crappy coding skills :P yay......</h1>
+
+    </body>
+</html>
